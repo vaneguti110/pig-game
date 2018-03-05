@@ -1,6 +1,6 @@
 # pig-game
 
-This is a project using html, css, javascript, and images in normal transition (https://vaneguti110.neocities.org/)
+This is a project using html, css, javascript, and images in roll dice game named pig game (https://vaneguti110.neocities.org/)
 
 GAME RULES:
 
