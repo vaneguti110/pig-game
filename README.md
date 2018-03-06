@@ -11,4 +11,4 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game or the score the user put in the input.
 
 
-In the website, it will show a brief description of the content and how the dices behaves depending of the score the user chooses.
+>In the website, it will show a brief description of the content and how the dices behaves depending of the score the user chooses.
